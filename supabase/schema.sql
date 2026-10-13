@@ -1,0 +1,2 @@
+-- SUPERSEDED. The earlier single-JSON-document starter schema was never used by the app and has been replaced.
+-- Use supabase/migrations/001_progress_sync.sql instead (separate tables per record type, with Row Level Security).
